@@ -1,0 +1,12 @@
+{
+  "name": "GreenKeeperTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:shankarshastri/GreenKeeperTest.git",
+  "author": "Shankar RC <shanrc@cisco.com>",
+  "license": "MIT",
+  "dependencies": {
+    "stylelint": "8.0",
+    "webpack": "^2.5.1"
+  }
+}
