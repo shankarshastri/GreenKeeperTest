@@ -5,6 +5,9 @@
   "repository": "git@github.com:shankarshastri/GreenKeeperTest.git",
   "author": "Shankar RC <shanrc@cisco.com>",
   "license": "MIT",
+  "devDependencies": {
+    "react": "16.1.0"
+  },
   "dependencies": {
     "stylelint": "8.0",
     "webpack": "^2.5.1"
