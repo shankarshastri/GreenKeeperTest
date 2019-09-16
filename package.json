@@ -9,7 +9,7 @@
     "react": "16.1.0"
   },
   "dependencies": {
-    "stylelint": "8.0",
+    "stylelint": "11.0",
     "webpack": "^2.5.1"
   }
 }
